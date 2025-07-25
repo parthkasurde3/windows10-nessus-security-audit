@@ -1,0 +1,13 @@
+Summary of Nessus Scan:
+
+1. Critical Vulnerabilities:
+   - MS17-010 (EternalBlue) Remote Code Execution
+2. High-Risk Vulnerabilities:
+   - SMB Signing not required
+   - Outdated Windows OS Components
+3. Medium-Risk Issues:
+   - SSL Self-Signed Certificate
+   - TLS Weak Cipher Suites
+4. Low-Risk Findings:
+   - Information Disclosure
+   - Missing Security Headers

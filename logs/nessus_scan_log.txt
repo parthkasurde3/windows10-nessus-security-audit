@@ -1,0 +1,7 @@
+[+] Scan Started on: 2025-07-25
+[*] Target: Windows 10 VM
+[*] Detected OS: Windows 10 Pro x64
+[*] Number of Plugins Run: 1254
+[*] Vulnerabilities Found: 21
+[*] Critical: 2 | High: 5 | Medium: 9 | Low: 5
+[+] Scan Completed Successfully.
