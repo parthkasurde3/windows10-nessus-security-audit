@@ -1,13 +1,13 @@
-# Vulnerability Assessment on a Windows Machine using Nessus
+# 🚨Vulnerability Assessment on a Windows Machine using Nessus
 
-## Overview
+## 📖Overview
 This project conducts a comprehensive vulnerability assessment on a Windows virtual machine using the Nessus vulnerability scanner. The scan identifies various levels of system vulnerabilities including critical, high, medium, and low severity issues.
 
-## Tools Used
+## 🛠️Tools Used
 - **Nessus** by Tenable for vulnerability scanning
 - **Windows VM** as the target environment
 
-## Key Findings
+## 🔑Key Findings
 The vulnerability assessment scan on the target Windows 10 system revealed a range of issues including:
 - **Critical vulnerabilities** like MS17-010 (EternalBlue)
 - **High-risk vulnerabilities** associated with outdated Windows SMB services
@@ -16,7 +16,7 @@ The vulnerability assessment scan on the target Windows 10 system revealed a ran
 
 For detailed breakdown and analysis, refer to the files in the `docs/` and `logs/` folders.
 
-## Folder Structure
+## 📁Folder Structure
 ```
 .
 ├── LICENSE
