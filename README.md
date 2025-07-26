@@ -1,11 +1,11 @@
 # Vulnerability Assessment on a Windows Machine using Nessus
 
 ## Overview
-This project conducts a comprehensive vulnerability assessment on a Windows 10 virtual machine using the Nessus vulnerability scanner. The scan identifies various levels of system vulnerabilities including critical, high, medium, and low severity issues.
+This project conducts a comprehensive vulnerability assessment on a Windows virtual machine using the Nessus vulnerability scanner. The scan identifies various levels of system vulnerabilities including critical, high, medium, and low severity issues.
 
 ## Tools Used
 - **Nessus** by Tenable for vulnerability scanning
-- **Windows 10 VM** as the target environment
+- **Windows VM** as the target environment
 
 ## Key Findings
 The vulnerability assessment scan on the target Windows 10 system revealed a range of issues including:
